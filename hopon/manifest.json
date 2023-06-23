@@ -1,0 +1,1 @@
+{"name":"HopOn","description":"Android only (for now). When a message is sent contaning the words \"hop on\", and then an Android package name, the app will be opened.","authors":[{"name":"UCYT5040","id":"539123083751981077"}],"main":"index.js","vendetta":{"icon":"ic_badge_staff"},"hash":"582d772301737a3aa2ab6946d4ef948ca33775b4c615bc5ddc15e027061e7c96"}
